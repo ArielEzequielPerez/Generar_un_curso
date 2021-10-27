@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "practica 2 de Csharp/1.0.0": {
+        "runtime": {
+          "practica 2 de Csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practica 2 de Csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
