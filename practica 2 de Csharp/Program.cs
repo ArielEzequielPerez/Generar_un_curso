@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+
 
 namespace practica_2_de_Csharp
 {
@@ -7,23 +7,22 @@ namespace practica_2_de_Csharp
     {
         static void Main(string[] args)
         {
-            Profesor martinComparetto =new Profesor("martin", "Comparetto", 2332156, 10);
-//            martinComparetto.fechaNacimiento = new DateTime(1962, 3, 15);
-            Alumno juan = new Alumno("ariel", "Perez", 32123132, true ,23, 11, 1995);
-            Alumno jorge = new Alumno("ariel", "Perez", 8798999, true ,23, 11, 1996);
-            Alumno ariel = new Alumno("ariel", "Perez", 8789, true ,23, 11, 1993);
-            Alumno nahuel = new Alumno("ariel", "Perez", 321466, true ,23, 11, 1998);
-            Alumno jose = new Alumno("ariel", "Perez", 779879, true ,23, 11, 1990);
-            Curso desarroloAppWeb = new Curso("desarrollo de aplicaciones web", 23, martinComparetto);
+
+             
+            Profesor unProfesor =new Profesor("martin", "Comparetto", 2332156, new DateTime(1986,11, 6), 10);
+            Curso desarroloAppWeb = new Curso("desarrollo de aplicaciones web", 23, unProfesor);
+
+            Alumno juan = new Alumno("juan", "Martinez", 32123132 ,new DateTime(1995, 11, 19), true);
+            Alumno jorge = new Alumno("jorge", "Perez", 8798999,new DateTime(2004, 6, 14), true);
+            Alumno ariel = new Alumno("ariel", "Perez", 8789, new DateTime(1993, 11, 23), true);
 
             desarroloAppWeb.cargarAlumno(juan);
             desarroloAppWeb.cargarAlumno(jorge);
             desarroloAppWeb.cargarAlumno(ariel);
-            desarroloAppWeb.cargarAlumno(nahuel);
-            desarroloAppWeb.cargarAlumno(jose);
 
+            
             desarroloAppWeb.mostrarDatos();
-
+            
         }
     }
 }

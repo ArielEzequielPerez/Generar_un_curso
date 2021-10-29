@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 
 class Curso{
-    string nombre;
-    int cantidadDeAlumnos;
-    Profesor profesorACargo;
+    public string nombreDelCurso {get; set;}
+    public int cantidadDeAlumnos {get; set;}
+    Profesor profesorACargo {get; set;}
     List<Alumno> alumnos=new List<Alumno>();
 
     public Curso(string nombre, int cantidadDeAlumnos, Profesor profesor){
-        this.nombre=nombre;
+        this.nombreDelCurso=nombre;
         this.cantidadDeAlumnos=cantidadDeAlumnos;
         this.profesorACargo=profesor;
     }
@@ -26,15 +26,16 @@ class Curso{
         }
     
     }
-
     public void mostrarDatos(){
-        Console.WriteLine("Nombre: "+this.nombre);
-        Console.WriteLine("Cantidad de alumnos: "+this.cantidadDeAlumnos);
-        Console.WriteLine("Profesor: "+this.profesorACargo.getNombreApellido());
-        Console.WriteLine("Alumnos: ");
+        Console.WriteLine("nombre del curso: " + this.nombreDelCurso);
+        Console.WriteLine("-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-");
+        profesorACargo.mostrarDatos();
+        Console.WriteLine("-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-");
+        Console.WriteLine("Datos de cada alumno: ");
         foreach(Alumno alumno in this.alumnos)
         {
             alumno.mostrarDatosAlumno();
+            Console.WriteLine("####################################################");
         }
     }
 }

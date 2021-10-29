@@ -14,3 +14,19 @@
 /home/ariel-perez/Documentos/comunidad It/practica-2-de-Csharp/practica 2 de Csharp/obj/Debug/net5.0/ref/practica 2 de Csharp.dll
 /home/ariel-perez/Documentos/comunidad It/practica-2-de-Csharp/practica 2 de Csharp/obj/Debug/net5.0/practica 2 de Csharp.pdb
 /home/ariel-perez/Documentos/comunidad It/practica-2-de-Csharp/practica 2 de Csharp/obj/Debug/net5.0/practica 2 de Csharp.genruntimeconfig.cache
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\bin\Debug\net5.0\practica 2 de Csharp.exe
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\bin\Debug\net5.0\practica 2 de Csharp.deps.json
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\bin\Debug\net5.0\practica 2 de Csharp.runtimeconfig.json
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\bin\Debug\net5.0\practica 2 de Csharp.runtimeconfig.dev.json
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\bin\Debug\net5.0\practica 2 de Csharp.dll
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\bin\Debug\net5.0\ref\practica 2 de Csharp.dll
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\bin\Debug\net5.0\practica 2 de Csharp.pdb
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\obj\Debug\net5.0\practica 2 de Csharp.csproj.AssemblyReference.cache
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\obj\Debug\net5.0\practica 2 de Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\obj\Debug\net5.0\practica 2 de Csharp.AssemblyInfoInputs.cache
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\obj\Debug\net5.0\practica 2 de Csharp.AssemblyInfo.cs
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\obj\Debug\net5.0\practica 2 de Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\obj\Debug\net5.0\practica 2 de Csharp.dll
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\obj\Debug\net5.0\ref\practica 2 de Csharp.dll
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\obj\Debug\net5.0\practica 2 de Csharp.pdb
+C:\Users\Arielperez\Documents\GitHub\practica-2-de-Csharp\practica 2 de Csharp\obj\Debug\net5.0\practica 2 de Csharp.genruntimeconfig.cache
