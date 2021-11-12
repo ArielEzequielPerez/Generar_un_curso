@@ -9,7 +9,7 @@ class Profesor : Persona{
     }
 
 
-    public void mostrarDatos(){
+    public void mostrarProfesor(){
         Console.WriteLine(this.mostrarPersona());
         Console.WriteLine("Años de experiencia: " + aniosExperiencia);
     }

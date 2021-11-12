@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Arielperez\\.nuget\\packages\\": {}
+    "C:\\Users\\ariel perez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arielperez\\Documents\\GitHub\\practica-2-de-Csharp\\practica 2 de Csharp\\practica 2 de Csharp.csproj",
+      "projectUniqueName": "D:\\Usuario\\Documentos\\GitHub\\Generar_un_curso\\practica 2 de Csharp\\practica 2 de Csharp.csproj",
       "projectName": "practica 2 de Csharp",
-      "projectPath": "C:\\Users\\Arielperez\\Documents\\GitHub\\practica-2-de-Csharp\\practica 2 de Csharp\\practica 2 de Csharp.csproj",
-      "packagesPath": "C:\\Users\\Arielperez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arielperez\\Documents\\GitHub\\practica-2-de-Csharp\\practica 2 de Csharp\\obj\\",
+      "projectPath": "D:\\Usuario\\Documentos\\GitHub\\Generar_un_curso\\practica 2 de Csharp\\practica 2 de Csharp.csproj",
+      "packagesPath": "C:\\Users\\ariel perez\\.nuget\\packages\\",
+      "outputPath": "D:\\Usuario\\Documentos\\GitHub\\Generar_un_curso\\practica 2 de Csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Arielperez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ariel perez\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -17,7 +17,7 @@ class Curso{
 
     public void cargarAlumno(Alumno alumno)
     {
-        if(this.alumnos.Count() <= this.cantidadDeAlumnos)
+        if(this.alumnos.Count()+1 <= this.cantidadDeAlumnos)
         {
             this.alumnos.Add(alumno);
         }else
@@ -29,7 +29,7 @@ class Curso{
     public void mostrarDatos(){
         Console.WriteLine("nombre del curso: " + this.nombreDelCurso);
         Console.WriteLine("-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-");
-        profesorACargo.mostrarDatos();
+        profesorACargo.mostrarProfesor();
         Console.WriteLine("-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-");
         Console.WriteLine("Datos de cada alumno: ");
         foreach(Alumno alumno in this.alumnos)
